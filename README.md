@@ -2,6 +2,16 @@
 ## 用Vue写一个搜索网站MySearch
 
 ## 课程观看视频
+
+>* 课01.用Vue造一个Google搜索站点
+>* 课02.MySearch搜索站点需求分析
+>* 课03.MySearch搜索站点项目搭建
+>* 课04.[MySearch搜索站点]封装首页Logo组件
+>* 课05.[MySearch搜索站点]封装首页搜索组件
+>* 课06.[MySearch搜索站点]封装搜索结果页顶部组件
+>* 课07.[MySearch搜索站点]封装搜索结果组件
+>* 课08.[MySearch搜索站点]修复Bug,完善项目
+
 * [B站观看](https://space.bilibili.com/390120104/channel/detail?cid=60892)
 * [YouTube观看](https://www.youtube.com/watch?v=GLtvh9E2ArI&list=PLA0YHwTjkRzvxYH9BRxDmjqumLGxw3CIe)
 
