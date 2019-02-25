@@ -1,7 +1,7 @@
-# idev365_vue_mysearch
-山地人带你实战-MySearch
+# 山地人带你实战
+## 用Vue写一个搜索网站MySearch
 
-课程观看视频
+## 课程观看视频
 * [B站观看](https://space.bilibili.com/390120104/channel/detail?cid=60892)
 * [YouTube观看](https://www.youtube.com/watch?v=GLtvh9E2ArI&list=PLA0YHwTjkRzvxYH9BRxDmjqumLGxw3CIe)
 
